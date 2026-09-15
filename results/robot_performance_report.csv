@@ -1,0 +1,10 @@
+Metric,Value,Unit
+ML Accuracy,93.6,%
+ML Precision,93.61,%
+ML Recall,93.6,%
+ML F1 Score,93.6,%
+Robot Success Rate,100.0,%
+Average Collisions,1.0,count
+Average Distance,3181.3,pixels
+Average AI Decisions,76.0,count
+Average KNN Inference,2.2223,ms
